@@ -1,5 +1,5 @@
 # blogGem
-How create a Ruby gem with ***<Bundler***?
+How create a Ruby gem with ***>Bundler***?
 
 First we need to know what is a gem in Ruby, how works, and finally how create and install that gem.
 
