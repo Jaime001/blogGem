@@ -10,6 +10,20 @@ Well, the ***Ruby gem*** is a library for Ruby that are installed in the system 
 ###### What contains a gem?
 
 * .gemspec
+* /lib
+* Documentation
 
+> About .gemspec
+This file cointains all information about the gem, some of them are;
+- Name
+- Version
+- Summary
+- Authors
+- License
 
+> About /lib
+This file contains the code of the gem, inside of this file, you can create your .rb
+
+> About Documentation
+Also, contain some documentation about of the gem in Code of conduct, and how install the gem in the README.md
 
