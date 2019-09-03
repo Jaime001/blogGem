@@ -9,7 +9,7 @@ Well, the ***Ruby gems*** are packages for Ruby that are installed in the system
 
 ***The gem manager in ruby*** permit us list the gems installed, search remote gems or locals (previously installed), install, update and delete gems. We know if is installed when we running:
 
->gem --version
+>gem  --version
 
 
 
