@@ -37,5 +37,22 @@ download in: https://bundler.io
 Starting work on a project is as simple as: ***bundle install.***
 Once time that we have Bundler installed in our PC, we can create a gem in this steps;
 > Open your console and go to the directory that you want the gem. 
-Write this: bundle gem |Name|.
+> Write this: bundle gem |Name|.
+
+Next, automatically the gem will be created in the directory.
+
+Inside of the folder, you can found the follow files:
+
+* Bin
+* Lib
+* Spec
+> rspec
+> .gitignore
+> |Name of the gem|.gemspec
+> .travis.yml
+> CODE_OF_CONDUCT.md
+> Gemfile
+> LICENSE.txt
+> Rakefile
+> README.md
   
