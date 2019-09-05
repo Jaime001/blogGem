@@ -33,6 +33,6 @@ Well, the ***Ruby gem*** is a library for Ruby that are installed in the system 
 > Bundler ensures that the gems you need are present in development, staging, and production.
 
 ## How install bundler?
-> Starting work on a project is as simple as: bundle install.
+ Starting work on a project is as simple as: ***bundle install.***
 
 * Once time that we have Bundler installed in our PC, we can create a gem in this steps;
