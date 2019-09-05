@@ -64,3 +64,4 @@ Inside of the folder, you can found the follow files:
 
 > README.md
   
+## The gem are ready to be used.
