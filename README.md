@@ -37,6 +37,5 @@ download in: https://bundler.io
 Starting work on a project is as simple as: ***bundle install.***
 Once time that we have Bundler installed in our PC, we can create a gem in this steps;
 > Open your console and go to the directory that you want the gem. 
-
-> Write this: bundle gem |Name|.
+Write this: bundle gem |Name|.
   
