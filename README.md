@@ -47,12 +47,20 @@ Inside of the folder, you can found the follow files:
 * Lib
 * Spec
 > rspec
+
 > .gitignore
+
 > |Name of the gem|.gemspec
+
 > .travis.yml
+
 > CODE_OF_CONDUCT.md
+
 > Gemfile
+
 > LICENSE.txt
+
 > Rakefile
+
 > README.md
   
