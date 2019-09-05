@@ -28,3 +28,10 @@ Well, the ***Ruby gem*** is a library for Ruby that are installed in the system 
 ###### About Documentation
 > Also, contain some documentation about of the gem in Code of conduct, and how install the gem in the README.md
 
+
+# Now, what is bundle?
+> Bundler ensures that the gems you need are present in development, staging, and production.
+
+## How install bundler?
+> Starting work on a project is as simple as 
+###### bundle install.
